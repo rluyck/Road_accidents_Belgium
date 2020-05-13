@@ -15,7 +15,8 @@ This data is made available under the 'Licentie open data' which is compatible w
 
 ## Recorded accidents per day of the week
 <b>Noteworthy</b>: upward trend from monday to wednesday, thursday small drop with peak accidents on friday. Why? Do people get more tired when the week goes on? The drop on thursday due to working from home? Do people rush home on friday or exhausted from the week and therefor less concentrated? 
-<br><b>On to do list</b>: plot hours for only friday.
+
+<br><b>To do list +=</b> plot hours for only friday.
 <p align="center">
   <img src="Plots/recorded_accidents_per_dayow.png">
 </p>
@@ -33,7 +34,9 @@ This data is made available under the 'Licentie open data' which is compatible w
 </p>
 
 ## Recorded accidents per month
-<b>Noteworthy</b>: second quarter peak due to holidays? 9th and 10th month due to bad weather conditions? <br><b>On to do list</b>: check for weather condition per month per municipality from 2005-2018
+<b>Noteworthy</b>: second quarter peak due to holidays? 9th and 10th month due to bad weather conditions? 
+
+<br><b>To do list +=</b> check for weather condition per month per municipality from 2005-2018
 
 <p align="center">
   <img src="Plots/recorded_accidents_per_month.png">
@@ -54,13 +57,15 @@ This data is made available under the 'Licentie open data' which is compatible w
 </p>
 
 ## Total deaths per municipality from 2005-2018
-<b>Noteworthy</b>: Antwerp, Gent, Namur, Tournai, Charleroi, Liege, Mons, bruxelles, Brugge, Genk are in respective order the top 10 of most accidents in Belgium. <br><b>On to do list</b>: find out why. #inhabitants, #people traveling there for work from other municipalities, etc...
+<b>Noteworthy</b>: Antwerp, Gent, Namur, Doornik, Charleroi, Liege, Mons, Bruxelles, Brugge, Genk in respective order are the top 10 municipalities with the most accidents in Belgium.
+
+<br><b>To do list +=</b> find out why. #inhabitants, #people traveling there for work from other municipalities, etc...
 
 <p align="center">
   <img src="Plots/BE_mun.png">
 </p>
 
-## Deaths per municipality over time (gif)
+## Changing deaths per municipality (gif)
 <p align="center">
   <img src="Plots/gif/accidents_over_time.gif">
 </p>

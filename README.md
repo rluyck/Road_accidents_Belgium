@@ -32,6 +32,17 @@ This data is made available under the 'Licentie open data' which is compatible w
 </p>
 
 ## Change of mean values of time
+
+Number of accidents with dead
+
+Number of accidents dead within 30 days
+
+Number of accidents with mortally injured
+
+Number of accidents with severely injured
+
+Number of accidents with slightly injured
+
 <p align="center">
   <img src="Plots/mean_accidents_mort_inj_over_time.png">
 </p>

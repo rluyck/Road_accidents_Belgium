@@ -10,6 +10,8 @@ questions:
 
 what year/month/day/hour do most accidents occur?
 
+![](Plots/mean_accidents_mort_inj_over_time.png)
+
 what year/month/day/hour give most casualties?
 
 which municipalities have the most deadly accidents?

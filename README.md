@@ -9,8 +9,11 @@ This data is made available under the 'Licentie open data' which is compatible w
 questions:
 
 what year/month/day/hour do most accidents occur?
+
 what year/month/day/hour give most casualties?
+
 which municipalities have the most deadly accidents?
+
 project still ongoing...
 
 

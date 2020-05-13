@@ -6,19 +6,22 @@ This data is made available under the 'Licentie open data' which is compatible w
 
 project still ongoing...
 
-<img src="Plots/recorded_accidents_per_year.png.png" width="50" height="50">
+<img src="Plots/BE_mun.png" >
 
-<img src="Plots/recorded_accidents_per_quarter.png.png" width="50" height="50">
+<img src="Plots/gif/accidents_over_time.gif" >
 
-<img src="Plots/recorded_accidents_per_month.png.png" width="50" height="50">
+<img src="Plots/recorded_accidents_per_year.png">
 
-<img src="Plots/recorded_accidents_per_hr.png.png" width="50" height="50">
+<img src="Plots/recorded_accidents_per_quarter.png" >
 
-<img src="Plots/recorded_accidents_per_dayow.png.png" width="50" height="50">
+<img src="Plots/recorded_accidents_per_month.png.png" >
 
-<img src="Plots/mean_accidents_mort_inj_over_time.png.png" width="50" height="50">
+<img src="Plots/recorded_accidents_per_hr.png" >
 
-<img src="Plots/BE_mun.png.png" width="50" height="50">
+<img src="Plots/recorded_accidents_per_dayow.png" >
+
+<img src="Plots/mean_accidents_mort_inj_over_time.png" >
+
 
 
 

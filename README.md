@@ -8,6 +8,14 @@ This data is made available under the 'Licentie open data' which is compatible w
 
 (Parts still in Dutch will be translated to English)
 
+
+### jointplot hour and day of the week (dow)
+
+<b>Noteworthy</b>: morning rush hour (8-9am), evening rush hour (5-6pm) and most accidents on friday.
+<p align="center">
+  <img src="Plots/joint_plot_dayow_hr.png">
+</p>
+
 ### Accidents per hour
 
 <b>Noteworthy</b>: morning rush hour (8-9am) and evening rush hour (5-6pm)

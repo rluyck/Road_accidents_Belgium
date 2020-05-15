@@ -6,33 +6,35 @@ This data is made available under the 'Licentie open data' which is compatible w
 
 ## Current findings (project ongoing)
 
-### 1. Accidents per hour
+(Parts still in Dutch will be translated to English)
+
+### Accidents per hour
 
 <b>Noteworthy</b>: morning rush hour (8-9am) and evening rush hour (5-6pm)
 <p align="center">
   <img src="Plots/recorded_accidents_per_hr.png">
 </p>
 
-### 2. Accidents per day of the week
+### Accidents per day of the week
 <b>Noteworthy</b>: upward trend from monday to wednesday, thursday small drop with peak accidents on friday. Why? Do people get more tired when the week goes on? The drop on thursday due to working from home? Do people rush home on friday or exhausted from the week and therefor less concentrated? 
 <br><b>To do list +=</b> plot hours for only friday.
 <p align="center">
   <img src="Plots/recorded_accidents_per_dayow.png">
 </p>
 
-### 3. Accidents per year
+### Accidents per year
 <b>Noteworthy</b>: downward trend.
 <p align="center">
   <img src="Plots/recorded_accidents_per_year.png">
 </p>
 
-### 4. Accidents per quarter
+### Accidents per quarter
 <b>Noteworthy</b>: second quarter peak due to holidays? Easter + start of summer holiday
 <p align="center">
   <img src="Plots/recorded_accidents_per_quarter.png">
 </p>
 
-### 5. Accidents per month
+### Accidents per month
 <b>Noteworthy</b>: second quarter peak due to holidays? 9th and 10th month due to bad weather conditions? 
 <br><b>To do list +=</b> check for weather condition per month per municipality from 2005-2018
 
@@ -40,7 +42,41 @@ This data is made available under the 'Licentie open data' which is compatible w
   <img src="Plots/recorded_accidents_per_month.png">
 </p>
 
-### 6. Change of mean values of time
+### Road type
+<b>Noteworthy</b>: 
+<br><b>To do list +=</b> 
+
+<p align="center">
+  <img src="Plots/road_type.png">
+</p>
+
+### Area
+<b>Noteworthy</b>: 
+<br><b>To do list +=</b> 
+
+<p align="center">
+  <img src="Plots/area.png">
+</p>
+
+### Collision type
+<b>Noteworthy</b>: 
+<br><b>To do list +=</b> 
+
+<p align="center">
+  <img src="Plots/collision_type.png">
+</p>
+
+
+### Light condition
+<b>Noteworthy</b>: 
+<br><b>To do list +=</b> 
+
+<p align="center">
+  <img src="Plots/light_condition.png">
+</p>
+
+
+### Change of mean values of time
 
 -dead = number of accidents with dead<br>
 -deadafter30d = number of accidents dead within 30 days<br>
@@ -54,7 +90,7 @@ This data is made available under the 'Licentie open data' which is compatible w
   <img src="Plots/mean_accidents_mort_inj_over_time.png">
 </p>
 
-### 7. Total deaths per municipality 2005-2018
+### Total deaths per municipality 2005-2018
 <b>Noteworthy</b>: Top 10
 
 -Antwerp 199<br>

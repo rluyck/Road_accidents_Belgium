@@ -50,6 +50,11 @@ This data is made available under the 'Licentie open data' which is compatible w
   <img src="Plots/road_type.png">
 </p>
 
+<b>Translation</b>: xlabels in their respective order -
+regional road, provincial road or municipal road, motorway, unknown
+
+
+
 ### Area
 <b>Noteworthy</b>: 
 <br><b>To do list +=</b> 
@@ -57,6 +62,9 @@ This data is made available under the 'Licentie open data' which is compatible w
 <p align="center">
   <img src="Plots/area.png">
 </p>
+
+<b>Translation</b>: xlabels in their respective order -
+outside built-up area, inside built-up area and not available
 
 ### Collision type
 <b>Noteworthy</b>: 
@@ -66,6 +74,9 @@ This data is made available under the 'Licentie open data' which is compatible w
   <img src="Plots/collision_type.png">
 </p>
 
+<b>Translation</b>: xlabels in their respective order - 
+Lateral, Against an obstacle on the road, Chain collision (4 drivers or more), From behind (or side by side), One driver/no obstacle, Frontal impact (or when crossing), Not available, Against an obstacle on the road , With a pedestrian 
+
 
 ### Light condition
 <b>Noteworthy</b>: 
@@ -74,6 +85,8 @@ This data is made available under the 'Licentie open data' which is compatible w
 <p align="center">
   <img src="Plots/light_condition.png">
 </p>
+
+<b>Translation</b>: xlabels in their respective order - in broad daylight, night / lit public lighting, not available, dawn / dusk, night / no public lighting
 
 
 ### Change of mean values of time

@@ -89,7 +89,7 @@ Lateral, Against an obstacle on the road, Chain collision (4 drivers or more), F
 <b>Translation</b>: xlabels in their respective order - in broad daylight, night / lit public lighting, not available, dawn / dusk, night / no public lighting
 
 
-### Change of mean values of time
+### Change of mean values over time
 
 -dead = number of accidents with dead<br>
 -deadafter30d = number of accidents dead within 30 days<br>

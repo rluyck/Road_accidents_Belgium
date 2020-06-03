@@ -18,7 +18,7 @@
 
 <b>Noteworthy</b>: morning rush hour (8-9am), evening rush hour (5-6pm) and most accidents on friday.
 <p align="center">
-  <img src="Plots/joint_plot_dayow_hr.png">
+  <img src="Plots/joint_plot_dayow_hr.png" width="600" height="600">
 </p>
 
 ### Accidents per hour

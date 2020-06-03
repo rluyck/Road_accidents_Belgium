@@ -1,5 +1,10 @@
 # Analysis of road accidents in Belgium 2005-2018 (ongoing)
 
+### Beware
+
+-Original dataset uses "dead" i.o. "death"<br>
+-Project is ongoing, some plots may not look very nice, will be corrected for final results.
+
 ### Data source
 
 -https://statbel.fgov.be/en/open-data.<br> -License: 'Licentie open data' which is compatible with the Creative Commons Attribution 2.0 license https://creativecommons.org/licenses/by/2.0
@@ -123,7 +128,7 @@ Lateral, Against an obstacle on the road, Chain collision (4 drivers or more), F
 -Genk (65)<br>
 ### GIF: changing deaths per municipality per year
 <p align="center">
-  <img src="Plots/gif/accidents_over_time.gif" width="800" height="800">
+  <img src="Plots/gif/accidents_over_time.gif" width="800" height="600">
 </p>
 
 

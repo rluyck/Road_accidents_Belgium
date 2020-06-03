@@ -1,8 +1,13 @@
 # Exploration dataset road accidents in Belgium 2005-2018
 
-Source: https://statbel.fgov.be/en/open-data
+### Data source
 
-This data is made available under the 'Licentie open data' which is compatible with the Creative Commons Attribution 2.0 license https://creativecommons.org/licenses/by/2.0
+-https://statbel.fgov.be/en/open-data.<br> -License: 'Licentie open data' which is compatible with the Creative Commons Attribution 2.0 license https://creativecommons.org/licenses/by/2.0
+### Objectives 
+
+-look for patterns with deadly accidents<br>
+-where and why do most deadly accidents occur<br>
+-create model to make predictions<br>
 
 ## Current findings (project ongoing)
 

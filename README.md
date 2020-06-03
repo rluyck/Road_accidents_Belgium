@@ -112,7 +112,7 @@ Lateral, Against an obstacle on the road, Chain collision (4 drivers or more), F
 
 ### Total deaths per municipality 2005-2018
 <p align="center">
-  <img src="Plots/BE_mun.png" width="800" height="600" >
+  <img src="Plots/cropped_BE_mun.png" width="800" height="600" >
 </p>
 <b>Noteworthy</b>: Top 10
 

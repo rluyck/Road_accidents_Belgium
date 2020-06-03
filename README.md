@@ -128,7 +128,7 @@ Lateral, Against an obstacle on the road, Chain collision (4 drivers or more), F
 -Genk (65)<br>
 ### GIF: changing deaths per municipality per year
 <p align="center">
-  <img src="Plots/gif/accidents_over_time.gif" width="800" height="600">
+  <img src="Plots/accidents_over_time.gif" width="800" height="600">
 </p>
 
 

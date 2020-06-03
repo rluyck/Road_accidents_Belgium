@@ -126,7 +126,7 @@ Lateral, Against an obstacle on the road, Chain collision (4 drivers or more), F
 -Bruxelles (78)<br>
 -Brugge (70)<br>
 -Genk (65)<br>
-### GIF: changing deaths per municipality per year
+### GIF
 <p align="center">
   <img src="Plots/cropped_accidents_over_time.gif" width="800" height="600">
 </p>

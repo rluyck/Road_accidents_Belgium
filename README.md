@@ -107,7 +107,7 @@ Lateral, Against an obstacle on the road, Chain collision (4 drivers or more), F
 <b>Beware of the different scale per plot!</b>
 
 <p align="center">
-  <img src="Plots/mean_accidents_mort_inj_over_time.png">
+  <img src="Plots/mort_inj_over_time.png">
 </p>
 
 ### Total deaths per municipality 2005-2018

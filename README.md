@@ -5,8 +5,8 @@
 -https://statbel.fgov.be/en/open-data.<br> -License: 'Licentie open data' which is compatible with the Creative Commons Attribution 2.0 license https://creativecommons.org/licenses/by/2.0
 ### Objectives 
 
--look for patterns with deadly accidents<br>
--where and why do most deadly accidents occur<br>
+-look for patterns/major contributors to deadly accidents<br>
+-where and why do most deadly accidents occur?<br>
 -create model to make predictions<br>
 
 ## Current findings (project ongoing)

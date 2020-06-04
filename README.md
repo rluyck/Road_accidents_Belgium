@@ -138,11 +138,9 @@
 
 ## Mean deaths per year
 
--From all the accidens occuring, these graph represents the percentage of fatalities in them.
--dead = number of accidents with death<br>
--deadafter30d = number of accidents causing death within 30 days<br>
+-From all the accidens occuring, these graph represents the ratio of fatalities.<br>
 
-<b>Beware of the different scale per plot!</b>
+<b>Beware of the different scale per plot</b>
 
 <p align="center">
   <img src="Plots/mort_inj_over_time.png">

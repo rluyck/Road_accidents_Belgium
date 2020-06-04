@@ -25,7 +25,7 @@
   <img src="Plots/cropped_accidents_over_time.gif" width="700" height="550">
 </p>
 
-### jointplot hour and day of the week (dow)
+### Hour vs. day of the week 
 
 <b>Noteworthy</b>: morning rush hour (8-9am), evening rush hour (5-6pm) and most accidents on friday.
 <p align="center">

@@ -20,7 +20,7 @@
 
 ## Overview
 
-* [GIF per year](#GIF per year)
+* [GIF per year](#GIF-per-year)
 * [Hour vs. day of the week](#Hour vs. day of the week)
 * [Accidents per hour](#Accidents per hour)
 * [Accidents per day of the week](#Accidents per day of the week)
@@ -33,7 +33,7 @@
 * [Accidents per light condition](#Accidents per light condition)
 * [Change of death (mean) over time](#Change of death (mean) over time)
 
-## GIF per year
+## GIF-per-year
 
 <p align="center">
   <img src="Plots/accidents_over_time.gif" width="700" height="550">

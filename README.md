@@ -33,20 +33,20 @@
 * [Accidents per light condition](#Accidents-per-light-condition)
 * [Change of death (mean) over time](#Change-of-death-(mean)-over-time)
 
-## GIF-per-year
+## GIF per year
 
 <p align="center">
   <img src="Plots/accidents_over_time.gif" width="700" height="550">
 </p>
 
-## Hour-vs.-day-of-the-week 
+## Hour vs. day of the week 
 
 <b>Noteworthy</b>: morning rush hour (8-9am), evening rush hour (5-6pm) and most accidents on friday.
 <p align="center">
   <img src="Plots/joint_plot_dayow_hr.png" width="600" height="600">
 </p>
 
-## AAccidents-per-hour
+## AAccidents per hour
 
 <b>Noteworthy</b>: morning rush hour (8-9am) and evening rush hour (5-6pm)
 <p align="center">

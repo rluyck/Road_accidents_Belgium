@@ -31,7 +31,9 @@
 * [Accidents per area](#Accidents-per-area)
 * [Accidents per collision type](#Accidents-per-collision-type)
 * [Accidents per light condition](#Accidents-per-light-condition)
-* [Change of death (mean) over time](#Change-of-death-(mean)-over-time)
+* [Mean deaths per year](#Mean-deaths-per-year)
+* [Total deaths per municipality from 2005-2018](#Total-deaths-per-municipality-from-2005-2018)
+
 
 ## GIF per year
 
@@ -134,8 +136,9 @@
 5= night / no public lighting<br>
 
 
-## Change of death (mean) over time
+## Mean deaths per year
 
+-From all the accidens occuring, these graph represents the percentage of fatalities in them.
 -dead = number of accidents with death<br>
 -deadafter30d = number of accidents causing death within 30 days<br>
 
@@ -144,6 +147,8 @@
 <p align="center">
   <img src="Plots/mort_inj_over_time.png">
 </p>
+
+## Total deaths per municipality from 2005-2018
 
 <p align="center">
   <img src="Plots/BE_mun.png" width="700" height="550" >

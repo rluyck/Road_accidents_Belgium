@@ -14,10 +14,9 @@
 
 -Original dataset uses "dead" i.o. "death"<br>
 -Project is ongoing, some plots may not look very nice, will be corrected for final results.
+-Parts still in Dutch will be translated to English
 
 ## Current findings (project ongoing)
-
-(Parts still in Dutch will be translated to English)
 
 ### GIF per year
 

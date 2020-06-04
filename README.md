@@ -110,11 +110,11 @@ Lateral, Against an obstacle on the road, Chain collision (4 drivers or more), F
   <img src="Plots/mort_inj_over_time.png">
 </p>
 
-### Total deaths per municipality 2005-2018
 <p align="center">
-  <img src="Plots/BE_mun.png" width="800" height="600" >
+  <img src="Plots/BE_mun_cropped.png" width="700" height="550" >
 </p>
-<b>Noteworthy</b>: Top 10
+
+<b>Top 10</b>:
 
 -Antwerp (199)<br>
 -Gent (142)<br>
@@ -126,9 +126,11 @@ Lateral, Against an obstacle on the road, Chain collision (4 drivers or more), F
 -Bruxelles (78)<br>
 -Brugge (70)<br>
 -Genk (65)<br>
+
 ### GIF
+
 <p align="center">
-  <img src="Plots/cropped_accidents_over_time.gif" width="800" height="600">
+  <img src="Plots/cropped_accidents_over_time.gif" width="700" height="550">
 </p>
 
 

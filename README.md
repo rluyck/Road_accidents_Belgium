@@ -65,10 +65,11 @@
   <img src="Plots/road_type.png" >
 </p>
 
-<b>Translation</b>: xlabels in their respective order -
-regional road, provincial road or municipal road, motorway, unknown
+<b>Translation</b>: xlabels<br>
 
-
+1=regional road<br>
+2=provincial road or municipal road<br>
+3=motorway<br>
 
 ### Area
 
@@ -76,8 +77,10 @@ regional road, provincial road or municipal road, motorway, unknown
   <img src="Plots/area.png" >
 </p>
 
-<b>Translation</b>: xlabels in their respective order -
-outside built-up area, inside built-up area and not available
+<b>Translation</b>: xlabels<br>
+1 = outside built-up area (buiten de bebouwde kom)<br>
+2 = inside built-up area (binnen de bebouwde kom)<br>
+3 = not available<br>
 
 ### Collision type
 
@@ -86,8 +89,15 @@ outside built-up area, inside built-up area and not available
   <img src="Plots/collision_type.png" >
 </p>
 
-<b>Translation</b>: xlabels in their respective order - 
-Lateral, Against an obstacle on the road, Chain collision (4 drivers or more), From behind (or side by side), One driver/no obstacle, Frontal impact (or when crossing), Not available, Against an obstacle on the road , With a pedestrian 
+<b>Translation</b>: xlabels<br>
+1=Lateral<br>
+2=Against an obstacle on the road<br>
+3=Chain collision (4 drivers or more)<br>
+4=From behind (or side by side)<br>
+5=One driver/no obstacle<br>
+6=Frontal impact (or when crossing)<br>
+7=Against an obstacle on the road<br> 
+8=With a pedestrian<br>
 
 
 ### Light condition
@@ -96,7 +106,12 @@ Lateral, Against an obstacle on the road, Chain collision (4 drivers or more), F
   <img src="Plots/light_condition.png" width="800" height="450">
 </p>
 
-<b>Translation</b>: xlabels in their respective order - in broad daylight, night / lit public lighting, not available, dawn / dusk, night / no public lighting
+<b>Translation</b>: xlabels<br>
+1 = broad daylight, night<br>
+2= lit public lighting<br>
+3= not available<br>
+4= dawn / dusk<br>
+5= night / no public lighting<br>
 
 
 ### Change of mean values over time

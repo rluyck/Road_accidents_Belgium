@@ -21,17 +21,17 @@
 ## Overview
 
 * [GIF per year](#GIF-per-year)
-* [Hour vs. day of the week](#Hour vs. day of the week)
-* [Accidents per hour](#Accidents per hour)
-* [Accidents per day of the week](#Accidents per day of the week)
-* [Accidents per year](#Accidents per year)
-* [Accidents per quarter](#Accidents per quarter)
-* [Accidents per month](#Accidents per month)
-* [Accidents per road type](#Accidents per road type)
-* [Accidents per area](#Accidents per area)
-* [Accidents per collision type](#Accidents per collision type)
-* [Accidents per light condition](#Accidents per light condition)
-* [Change of death (mean) over time](#Change of death (mean) over time)
+* [Hour vs. day of the week](#Hour-vs.-day-of-the-week)
+* [Accidents per hour](#Accidents-per-hour)
+* [Accidents per day of the week](#Accidents-per-day-of-the-week)
+* [Accidents per year](#Accidents-per-year)
+* [Accidents per quarter](#Accidents-per-quarter)
+* [Accidents per month](#Accidents-per-month)
+* [Accidents per road type](#Accidents-per-road-type)
+* [Accidents per area](#Accidents-per-area)
+* [Accidents per collision type](#Accidents-per-collision-type)
+* [Accidents per light condition](#Accidents-per-light-condition)
+* [Change of death (mean) over time](#Change-of-death-(mean)-over-time)
 
 ## GIF-per-year
 
@@ -39,14 +39,14 @@
   <img src="Plots/accidents_over_time.gif" width="700" height="550">
 </p>
 
-## Hour vs. day of the week 
+## Hour-vs.-day-of-the-week 
 
 <b>Noteworthy</b>: morning rush hour (8-9am), evening rush hour (5-6pm) and most accidents on friday.
 <p align="center">
   <img src="Plots/joint_plot_dayow_hr.png" width="600" height="600">
 </p>
 
-## Accidents per hour
+## AAccidents-per-hour
 
 <b>Noteworthy</b>: morning rush hour (8-9am) and evening rush hour (5-6pm)
 <p align="center">

@@ -19,6 +19,11 @@
 
 (Parts still in Dutch will be translated to English)
 
+### GIF per year
+
+<p align="center">
+  <img src="Plots/cropped_accidents_over_time.gif" width="700" height="550">
+</p>
 
 ### jointplot hour and day of the week (dow)
 
@@ -143,11 +148,6 @@
 -Brugge (70)<br>
 -Genk (65)<br>
 
-### GIF
-
-<p align="center">
-  <img src="Plots/cropped_accidents_over_time.gif" width="700" height="550">
-</p>
 
 
 

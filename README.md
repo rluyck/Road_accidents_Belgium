@@ -1,10 +1,5 @@
 # Analysis of road accidents in Belgium 2005-2018 (ongoing)
 
-### Beware
-
--Original dataset uses "dead" i.o. "death"<br>
--Project is ongoing, some plots may not look very nice, will be corrected for final results.
-
 ### Data source
 
 -https://statbel.fgov.be/en/open-data.<br> -License: 'Licentie open data' which is compatible with the Creative Commons Attribution 2.0 license https://creativecommons.org/licenses/by/2.0
@@ -12,14 +7,24 @@
 
 -look for patterns/major contributors to deadly accidents<br>
 -where and why do most deadly accidents occur?<br>
+-visualize map per municipality using geopandas<br>
 -create model to make predictions<br>
+
+### Beware
+
+-Original dataset uses "dead" i.o. "death"<br>
+-Project is ongoing, some plots may not look very nice, will be corrected for final results.<br>
+-Parts still in Dutch will be translated to English<br>
 
 ## Current findings (project ongoing)
 
-(Parts still in Dutch will be translated to English)
+### GIF per year
 
+<p align="center">
+  <img src="Plots/cropped_accidents_over_time.gif" width="700" height="550">
+</p>
 
-### jointplot hour and day of the week (dow)
+### Hour vs. day of the week 
 
 <b>Noteworthy</b>: morning rush hour (8-9am), evening rush hour (5-6pm) and most accidents on friday.
 <p align="center">
@@ -142,11 +147,6 @@
 -Brugge (70)<br>
 -Genk (65)<br>
 
-### GIF
-
-<p align="center">
-  <img src="Plots/cropped_accidents_over_time.gif" width="700" height="550">
-</p>
 
 
 

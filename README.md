@@ -21,7 +21,7 @@
 ### GIF per year
 
 <p align="center">
-  <img src="Plots/cropped_accidents_over_time.gif" width="700" height="550">
+  <img src="Plots/accidents_over_time.gif" width="700" height="550">
 </p>
 
 ### Hour vs. day of the week 
@@ -131,7 +131,7 @@
 </p>
 
 <p align="center">
-  <img src="Plots/BE_mun_cropped.png" width="700" height="550" >
+  <img src="Plots/BE_mun.png" width="700" height="550" >
 </p>
 
 <b>Top 10</b>:

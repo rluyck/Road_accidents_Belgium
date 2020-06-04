@@ -1,10 +1,5 @@
 # Analysis of road accidents in Belgium 2005-2018 (ongoing)
 
-### Beware
-
--Original dataset uses "dead" i.o. "death"<br>
--Project is ongoing, some plots may not look very nice, will be corrected for final results.
-
 ### Data source
 
 -https://statbel.fgov.be/en/open-data.<br> -License: 'Licentie open data' which is compatible with the Creative Commons Attribution 2.0 license https://creativecommons.org/licenses/by/2.0
@@ -12,7 +7,13 @@
 
 -look for patterns/major contributors to deadly accidents<br>
 -where and why do most deadly accidents occur?<br>
+-visualize map per municipality using geopandas<br>
 -create model to make predictions<br>
+
+### Beware
+
+-Original dataset uses "dead" i.o. "death"<br>
+-Project is ongoing, some plots may not look very nice, will be corrected for final results.
 
 ## Current findings (project ongoing)
 

@@ -13,8 +13,8 @@
 ### Beware
 
 -Original dataset uses "dead" i.o. "death"<br>
--Project is ongoing, some plots may not look very nice, will be corrected for final results.
--Parts still in Dutch will be translated to English
+-Project is ongoing, some plots may not look very nice, will be corrected for final results.<br>
+-Parts still in Dutch will be translated to English<br>
 
 ## Current findings (project ongoing)
 

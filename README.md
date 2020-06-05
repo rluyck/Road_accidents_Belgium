@@ -48,7 +48,7 @@
   <img src="Plots/joint_plot_dayow_hr.png" width="600" height="600">
 </p>
 
-## AAccidents per hour
+## Accidents per hour
 
 <b>Noteworthy</b>: morning rush hour (8-9am) and evening rush hour (5-6pm)
 <p align="center">
@@ -129,7 +129,7 @@
 </p>
 
 <b>Translation</b>: xlabels<br>
-1 = broad daylight, night<br>
+1 = broad daylight<br>
 2= lit public lighting<br>
 3= not available<br>
 4= dawn / dusk<br>

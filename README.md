@@ -14,7 +14,7 @@
 
 ## Overview
 
-* [GIF per year](#GIF-per-year)
+* [Moving GIF with deathly accidents per year](#GIF-per-year)
 * [Hour vs. day of the week](#Hour-vs.-day-of-the-week)
 * [Accidents per hour](#Accidents-per-hour)
 * [Accidents per day of the week](#Accidents-per-day-of-the-week)

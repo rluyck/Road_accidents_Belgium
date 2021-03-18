@@ -8,13 +8,7 @@
 -look for patterns/major contributors to deadly accidents<br>
 -where and why do most deadly accidents occur?<br>
 -visualize map per municipality using geopandas<br>
--create model to make predictions<br>
-
-### Beware
-
--Original dataset uses "dead" i.o. "death"<br>
--Project is ongoing, some plots may not look very nice, will be corrected for final results.<br>
--Parts still in Dutch will be translated to English<br>
+-model to make predictions<br>
 
 ## Current findings (project ongoing)
 

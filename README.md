@@ -14,7 +14,7 @@
 
 ## Overview
 
-* [Changing GIF with deathly accidents per year](#GIF-per-year)
+* [Dynamic GIF with deathly accidents per year](#GIF-per-year)
 * [Hour vs. day of the week](#Hour-vs.-day-of-the-week)
 * [Accidents per hour](#Accidents-per-hour)
 * [Accidents per day of the week](#Accidents-per-day-of-the-week)
@@ -29,7 +29,7 @@
 * [Total deaths per municipality from 2005-2018](#Total-deaths-per-municipality-from-2005-2018)
 
 
-## Changing GIF with deathly accidents per year
+## Dynamic GIF with deathly accidents per year
 
 <p align="center">
   <img src="Plots/accidents_over_time.gif" width="700" height="550">
